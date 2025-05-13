@@ -1,0 +1,20 @@
+django
+django-plotly-dash
+tzlocal
+dash
+flask  # Dash is built on Flask
+plotly  # For interactive visualizations
+pandas  # Data handling
+numpy  # Numerical computations
+gunicorn  # For production server deployment
+dash-bootstrap-components
+dash-ag-grid
+dash-cytoscape
+dash-mantine-components
+dash-iconify
+sqlalchemy
+python-dotenv
+google-cloud-storage
+google-cloud-secret-manager
+redis
+influxdb3-python
