@@ -1,0 +1,2 @@
+# generic_django_dash
+generic_django_dash
